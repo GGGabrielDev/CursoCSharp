@@ -1,0 +1,6 @@
+C:\Projetos C#\SomaSimples\SomaSimples\bin\Debug\SomaSimples.exe.config
+C:\Projetos C#\SomaSimples\SomaSimples\bin\Debug\SomaSimples.exe
+C:\Projetos C#\SomaSimples\SomaSimples\bin\Debug\SomaSimples.pdb
+C:\Projetos C#\SomaSimples\SomaSimples\obj\Debug\SomaSimples.csproj.CoreCompileInputs.cache
+C:\Projetos C#\SomaSimples\SomaSimples\obj\Debug\SomaSimples.exe
+C:\Projetos C#\SomaSimples\SomaSimples\obj\Debug\SomaSimples.pdb

@@ -1,0 +1,7 @@
+C:\Projetos C#\ProjetoSplitFixacao\ProjetoSplitFixacao\bin\Debug\ProjetoSplitFixacao.exe.config
+C:\Projetos C#\ProjetoSplitFixacao\ProjetoSplitFixacao\bin\Debug\ProjetoSplitFixacao.exe
+C:\Projetos C#\ProjetoSplitFixacao\ProjetoSplitFixacao\bin\Debug\ProjetoSplitFixacao.pdb
+C:\Projetos C#\ProjetoSplitFixacao\ProjetoSplitFixacao\obj\Debug\ProjetoSplitFixacao.csproj.CoreCompileInputs.cache
+C:\Projetos C#\ProjetoSplitFixacao\ProjetoSplitFixacao\obj\Debug\ProjetoSplitFixacao.exe
+C:\Projetos C#\ProjetoSplitFixacao\ProjetoSplitFixacao\obj\Debug\ProjetoSplitFixacao.pdb
+C:\Projetos C#\ProjetoSplitFixacao\ProjetoSplitFixacao\obj\Debug\ProjetoSplitFixacao.csproj.AssemblyReference.cache

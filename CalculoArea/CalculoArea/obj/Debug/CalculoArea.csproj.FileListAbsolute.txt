@@ -1,0 +1,2 @@
+C:\Projetos C#\CalculoArea\CalculoArea\obj\Debug\CalculoArea.csproj.AssemblyReference.cache
+C:\Projetos C#\CalculoArea\CalculoArea\obj\Debug\CalculoArea.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+C:\Projetos C#\Troca\Troca\bin\Debug\Troca.exe.config
+C:\Projetos C#\Troca\Troca\bin\Debug\Troca.exe
+C:\Projetos C#\Troca\Troca\bin\Debug\Troca.pdb
+C:\Projetos C#\Troca\Troca\obj\Debug\Troca.csproj.AssemblyReference.cache
+C:\Projetos C#\Troca\Troca\obj\Debug\Troca.csproj.CoreCompileInputs.cache
+C:\Projetos C#\Troca\Troca\obj\Debug\Troca.exe
+C:\Projetos C#\Troca\Troca\obj\Debug\Troca.pdb

@@ -1,0 +1,7 @@
+C:\Projetos C#\FunçoesEMetodos\FunçoesEMetodos\bin\Debug\FunçoesEMetodos.exe.config
+C:\Projetos C#\FunçoesEMetodos\FunçoesEMetodos\bin\Debug\FunçoesEMetodos.exe
+C:\Projetos C#\FunçoesEMetodos\FunçoesEMetodos\bin\Debug\FunçoesEMetodos.pdb
+C:\Projetos C#\FunçoesEMetodos\FunçoesEMetodos\obj\Debug\FunçoesEMetodos.csproj.AssemblyReference.cache
+C:\Projetos C#\FunçoesEMetodos\FunçoesEMetodos\obj\Debug\FunçoesEMetodos.csproj.CoreCompileInputs.cache
+C:\Projetos C#\FunçoesEMetodos\FunçoesEMetodos\obj\Debug\FunçoesEMetodos.exe
+C:\Projetos C#\FunçoesEMetodos\FunçoesEMetodos\obj\Debug\FunçoesEMetodos.pdb

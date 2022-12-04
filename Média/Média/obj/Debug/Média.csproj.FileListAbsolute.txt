@@ -1,0 +1,7 @@
+C:\Projetos C#\Média\Média\bin\Debug\Média.exe.config
+C:\Projetos C#\Média\Média\bin\Debug\Média.exe
+C:\Projetos C#\Média\Média\bin\Debug\Média.pdb
+C:\Projetos C#\Média\Média\obj\Debug\Média.csproj.AssemblyReference.cache
+C:\Projetos C#\Média\Média\obj\Debug\Média.csproj.CoreCompileInputs.cache
+C:\Projetos C#\Média\Média\obj\Debug\Média.exe
+C:\Projetos C#\Média\Média\obj\Debug\Média.pdb

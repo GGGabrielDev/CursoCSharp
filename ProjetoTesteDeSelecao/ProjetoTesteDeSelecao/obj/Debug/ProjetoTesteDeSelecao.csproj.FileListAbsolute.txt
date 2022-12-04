@@ -1,0 +1,7 @@
+C:\Projetos C#\ProjetoTesteDeSelecao\ProjetoTesteDeSelecao\bin\Debug\ProjetoTesteDeSelecao.exe.config
+C:\Projetos C#\ProjetoTesteDeSelecao\ProjetoTesteDeSelecao\bin\Debug\ProjetoTesteDeSelecao.exe
+C:\Projetos C#\ProjetoTesteDeSelecao\ProjetoTesteDeSelecao\bin\Debug\ProjetoTesteDeSelecao.pdb
+C:\Projetos C#\ProjetoTesteDeSelecao\ProjetoTesteDeSelecao\obj\Debug\ProjetoTesteDeSelecao.csproj.AssemblyReference.cache
+C:\Projetos C#\ProjetoTesteDeSelecao\ProjetoTesteDeSelecao\obj\Debug\ProjetoTesteDeSelecao.csproj.CoreCompileInputs.cache
+C:\Projetos C#\ProjetoTesteDeSelecao\ProjetoTesteDeSelecao\obj\Debug\ProjetoTesteDeSelecao.exe
+C:\Projetos C#\ProjetoTesteDeSelecao\ProjetoTesteDeSelecao\obj\Debug\ProjetoTesteDeSelecao.pdb

@@ -1,0 +1,7 @@
+C:\Projetos C#\VolumeTanque\VolumeTanque\bin\Debug\VolumeTanque.exe.config
+C:\Projetos C#\VolumeTanque\VolumeTanque\bin\Debug\VolumeTanque.exe
+C:\Projetos C#\VolumeTanque\VolumeTanque\bin\Debug\VolumeTanque.pdb
+C:\Projetos C#\VolumeTanque\VolumeTanque\obj\Debug\VolumeTanque.csproj.AssemblyReference.cache
+C:\Projetos C#\VolumeTanque\VolumeTanque\obj\Debug\VolumeTanque.csproj.CoreCompileInputs.cache
+C:\Projetos C#\VolumeTanque\VolumeTanque\obj\Debug\VolumeTanque.exe
+C:\Projetos C#\VolumeTanque\VolumeTanque\obj\Debug\VolumeTanque.pdb

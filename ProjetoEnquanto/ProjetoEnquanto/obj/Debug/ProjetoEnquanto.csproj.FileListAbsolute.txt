@@ -1,0 +1,7 @@
+C:\Projetos C#\ProjetoEnquanto\ProjetoEnquanto\bin\Debug\ProjetoEnquanto.exe.config
+C:\Projetos C#\ProjetoEnquanto\ProjetoEnquanto\bin\Debug\ProjetoEnquanto.exe
+C:\Projetos C#\ProjetoEnquanto\ProjetoEnquanto\bin\Debug\ProjetoEnquanto.pdb
+C:\Projetos C#\ProjetoEnquanto\ProjetoEnquanto\obj\Debug\ProjetoEnquanto.csproj.AssemblyReference.cache
+C:\Projetos C#\ProjetoEnquanto\ProjetoEnquanto\obj\Debug\ProjetoEnquanto.csproj.CoreCompileInputs.cache
+C:\Projetos C#\ProjetoEnquanto\ProjetoEnquanto\obj\Debug\ProjetoEnquanto.exe
+C:\Projetos C#\ProjetoEnquanto\ProjetoEnquanto\obj\Debug\ProjetoEnquanto.pdb

@@ -1,0 +1,7 @@
+C:\Projetos C#\Raiz\Raiz\bin\Debug\Raiz.exe.config
+C:\Projetos C#\Raiz\Raiz\bin\Debug\Raiz.exe
+C:\Projetos C#\Raiz\Raiz\bin\Debug\Raiz.pdb
+C:\Projetos C#\Raiz\Raiz\obj\Debug\Raiz.csproj.AssemblyReference.cache
+C:\Projetos C#\Raiz\Raiz\obj\Debug\Raiz.csproj.CoreCompileInputs.cache
+C:\Projetos C#\Raiz\Raiz\obj\Debug\Raiz.exe
+C:\Projetos C#\Raiz\Raiz\obj\Debug\Raiz.pdb

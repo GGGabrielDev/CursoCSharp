@@ -1,0 +1,6 @@
+C:\Projetos C#\ProjetoIfElse\ProjetoIfElse\bin\Debug\ProjetoIfElse.exe.config
+C:\Projetos C#\ProjetoIfElse\ProjetoIfElse\bin\Debug\ProjetoIfElse.exe
+C:\Projetos C#\ProjetoIfElse\ProjetoIfElse\bin\Debug\ProjetoIfElse.pdb
+C:\Projetos C#\ProjetoIfElse\ProjetoIfElse\obj\Debug\ProjetoIfElse.csproj.CoreCompileInputs.cache
+C:\Projetos C#\ProjetoIfElse\ProjetoIfElse\obj\Debug\ProjetoIfElse.exe
+C:\Projetos C#\ProjetoIfElse\ProjetoIfElse\obj\Debug\ProjetoIfElse.pdb

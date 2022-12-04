@@ -1,0 +1,6 @@
+C:\Projetos C#\AulaVetor3\AulaVetor3\bin\Debug\AulaVetor3.exe.config
+C:\Projetos C#\AulaVetor3\AulaVetor3\bin\Debug\AulaVetor3.exe
+C:\Projetos C#\AulaVetor3\AulaVetor3\bin\Debug\AulaVetor3.pdb
+C:\Projetos C#\AulaVetor3\AulaVetor3\obj\Debug\AulaVetor3.csproj.CoreCompileInputs.cache
+C:\Projetos C#\AulaVetor3\AulaVetor3\obj\Debug\AulaVetor3.exe
+C:\Projetos C#\AulaVetor3\AulaVetor3\obj\Debug\AulaVetor3.pdb

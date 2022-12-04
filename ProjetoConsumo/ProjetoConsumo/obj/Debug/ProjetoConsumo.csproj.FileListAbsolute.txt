@@ -1,0 +1,7 @@
+C:\Projetos C#\ProjetoConsumo\ProjetoConsumo\bin\Debug\ProjetoConsumo.exe.config
+C:\Projetos C#\ProjetoConsumo\ProjetoConsumo\bin\Debug\ProjetoConsumo.exe
+C:\Projetos C#\ProjetoConsumo\ProjetoConsumo\bin\Debug\ProjetoConsumo.pdb
+C:\Projetos C#\ProjetoConsumo\ProjetoConsumo\obj\Debug\ProjetoConsumo.csproj.CoreCompileInputs.cache
+C:\Projetos C#\ProjetoConsumo\ProjetoConsumo\obj\Debug\ProjetoConsumo.exe
+C:\Projetos C#\ProjetoConsumo\ProjetoConsumo\obj\Debug\ProjetoConsumo.pdb
+C:\Projetos C#\ProjetoConsumo\ProjetoConsumo\obj\Debug\ProjetoConsumo.csproj.AssemblyReference.cache

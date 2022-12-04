@@ -1,0 +1,7 @@
+C:\Projetos C#\AreaDoCirculo\AreaDoCirculo\bin\Debug\AreaDoCirculo.exe.config
+C:\Projetos C#\AreaDoCirculo\AreaDoCirculo\bin\Debug\AreaDoCirculo.exe
+C:\Projetos C#\AreaDoCirculo\AreaDoCirculo\bin\Debug\AreaDoCirculo.pdb
+C:\Projetos C#\AreaDoCirculo\AreaDoCirculo\obj\Debug\AreaDoCirculo.csproj.CoreCompileInputs.cache
+C:\Projetos C#\AreaDoCirculo\AreaDoCirculo\obj\Debug\AreaDoCirculo.exe
+C:\Projetos C#\AreaDoCirculo\AreaDoCirculo\obj\Debug\AreaDoCirculo.pdb
+C:\Projetos C#\AreaDoCirculo\AreaDoCirculo\obj\Debug\AreaDoCirculo.csproj.AssemblyReference.cache

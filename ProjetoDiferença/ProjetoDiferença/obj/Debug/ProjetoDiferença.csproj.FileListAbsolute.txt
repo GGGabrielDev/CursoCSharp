@@ -1,0 +1,6 @@
+C:\Projetos C#\ProjetoDiferença\ProjetoDiferença\bin\Debug\ProjetoDiferença.exe.config
+C:\Projetos C#\ProjetoDiferença\ProjetoDiferença\bin\Debug\ProjetoDiferença.exe
+C:\Projetos C#\ProjetoDiferença\ProjetoDiferença\bin\Debug\ProjetoDiferença.pdb
+C:\Projetos C#\ProjetoDiferença\ProjetoDiferença\obj\Debug\ProjetoDiferença.csproj.CoreCompileInputs.cache
+C:\Projetos C#\ProjetoDiferença\ProjetoDiferença\obj\Debug\ProjetoDiferença.exe
+C:\Projetos C#\ProjetoDiferença\ProjetoDiferença\obj\Debug\ProjetoDiferença.pdb

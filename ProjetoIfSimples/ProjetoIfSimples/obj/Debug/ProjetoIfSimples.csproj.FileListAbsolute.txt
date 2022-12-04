@@ -1,0 +1,7 @@
+C:\Projetos C#\ProjetoIfSimples\ProjetoIfSimples\bin\Debug\ProjetoIfSimples.exe.config
+C:\Projetos C#\ProjetoIfSimples\ProjetoIfSimples\bin\Debug\ProjetoIfSimples.exe
+C:\Projetos C#\ProjetoIfSimples\ProjetoIfSimples\bin\Debug\ProjetoIfSimples.pdb
+C:\Projetos C#\ProjetoIfSimples\ProjetoIfSimples\obj\Debug\ProjetoIfSimples.csproj.AssemblyReference.cache
+C:\Projetos C#\ProjetoIfSimples\ProjetoIfSimples\obj\Debug\ProjetoIfSimples.csproj.CoreCompileInputs.cache
+C:\Projetos C#\ProjetoIfSimples\ProjetoIfSimples\obj\Debug\ProjetoIfSimples.exe
+C:\Projetos C#\ProjetoIfSimples\ProjetoIfSimples\obj\Debug\ProjetoIfSimples.pdb

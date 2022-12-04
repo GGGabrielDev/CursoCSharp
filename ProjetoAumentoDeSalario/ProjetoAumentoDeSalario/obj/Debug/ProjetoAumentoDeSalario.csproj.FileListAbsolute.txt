@@ -1,0 +1,6 @@
+C:\Projetos C#\ProjetoAumentoDeSalario\ProjetoAumentoDeSalario\bin\Debug\ProjetoAumentoDeSalario.exe.config
+C:\Projetos C#\ProjetoAumentoDeSalario\ProjetoAumentoDeSalario\bin\Debug\ProjetoAumentoDeSalario.exe
+C:\Projetos C#\ProjetoAumentoDeSalario\ProjetoAumentoDeSalario\bin\Debug\ProjetoAumentoDeSalario.pdb
+C:\Projetos C#\ProjetoAumentoDeSalario\ProjetoAumentoDeSalario\obj\Debug\ProjetoAumentoDeSalario.csproj.CoreCompileInputs.cache
+C:\Projetos C#\ProjetoAumentoDeSalario\ProjetoAumentoDeSalario\obj\Debug\ProjetoAumentoDeSalario.exe
+C:\Projetos C#\ProjetoAumentoDeSalario\ProjetoAumentoDeSalario\obj\Debug\ProjetoAumentoDeSalario.pdb

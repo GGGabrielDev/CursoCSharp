@@ -1,0 +1,7 @@
+C:\Projetos C#\ProjetoGastoDeCombustível\ProjetoGastoDeCombustível\bin\Debug\ProjetoGastoDeCombustível.exe.config
+C:\Projetos C#\ProjetoGastoDeCombustível\ProjetoGastoDeCombustível\bin\Debug\ProjetoGastoDeCombustível.exe
+C:\Projetos C#\ProjetoGastoDeCombustível\ProjetoGastoDeCombustível\bin\Debug\ProjetoGastoDeCombustível.pdb
+C:\Projetos C#\ProjetoGastoDeCombustível\ProjetoGastoDeCombustível\obj\Debug\ProjetoGastoDeCombustível.csproj.AssemblyReference.cache
+C:\Projetos C#\ProjetoGastoDeCombustível\ProjetoGastoDeCombustível\obj\Debug\ProjetoGastoDeCombustível.csproj.CoreCompileInputs.cache
+C:\Projetos C#\ProjetoGastoDeCombustível\ProjetoGastoDeCombustível\obj\Debug\ProjetoGastoDeCombustível.exe
+C:\Projetos C#\ProjetoGastoDeCombustível\ProjetoGastoDeCombustível\obj\Debug\ProjetoGastoDeCombustível.pdb

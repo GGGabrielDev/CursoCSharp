@@ -1,0 +1,6 @@
+C:\Projetos C#\MediaPonderada2\MediaPonderada2\bin\Debug\MediaPonderada2.exe.config
+C:\Projetos C#\MediaPonderada2\MediaPonderada2\bin\Debug\MediaPonderada2.exe
+C:\Projetos C#\MediaPonderada2\MediaPonderada2\bin\Debug\MediaPonderada2.pdb
+C:\Projetos C#\MediaPonderada2\MediaPonderada2\obj\Debug\MediaPonderada2.csproj.CoreCompileInputs.cache
+C:\Projetos C#\MediaPonderada2\MediaPonderada2\obj\Debug\MediaPonderada2.exe
+C:\Projetos C#\MediaPonderada2\MediaPonderada2\obj\Debug\MediaPonderada2.pdb

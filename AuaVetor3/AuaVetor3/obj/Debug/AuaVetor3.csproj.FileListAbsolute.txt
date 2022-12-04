@@ -1,0 +1,7 @@
+C:\Projetos C#\AuaVetor3\AuaVetor3\bin\Debug\AuaVetor3.exe.config
+C:\Projetos C#\AuaVetor3\AuaVetor3\bin\Debug\AuaVetor3.exe
+C:\Projetos C#\AuaVetor3\AuaVetor3\bin\Debug\AuaVetor3.pdb
+C:\Projetos C#\AuaVetor3\AuaVetor3\obj\Debug\AuaVetor3.csproj.AssemblyReference.cache
+C:\Projetos C#\AuaVetor3\AuaVetor3\obj\Debug\AuaVetor3.csproj.CoreCompileInputs.cache
+C:\Projetos C#\AuaVetor3\AuaVetor3\obj\Debug\AuaVetor3.exe
+C:\Projetos C#\AuaVetor3\AuaVetor3\obj\Debug\AuaVetor3.pdb

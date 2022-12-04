@@ -1,0 +1,7 @@
+C:\Projetos C#\ProjetoTempoDeJogo\ProjetoTempoDeJogo\bin\Debug\ProjetoTempoDeJogo.exe.config
+C:\Projetos C#\ProjetoTempoDeJogo\ProjetoTempoDeJogo\bin\Debug\ProjetoTempoDeJogo.exe
+C:\Projetos C#\ProjetoTempoDeJogo\ProjetoTempoDeJogo\bin\Debug\ProjetoTempoDeJogo.pdb
+C:\Projetos C#\ProjetoTempoDeJogo\ProjetoTempoDeJogo\obj\Debug\ProjetoTempoDeJogo.csproj.AssemblyReference.cache
+C:\Projetos C#\ProjetoTempoDeJogo\ProjetoTempoDeJogo\obj\Debug\ProjetoTempoDeJogo.csproj.CoreCompileInputs.cache
+C:\Projetos C#\ProjetoTempoDeJogo\ProjetoTempoDeJogo\obj\Debug\ProjetoTempoDeJogo.exe
+C:\Projetos C#\ProjetoTempoDeJogo\ProjetoTempoDeJogo\obj\Debug\ProjetoTempoDeJogo.pdb

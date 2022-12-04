@@ -1,0 +1,6 @@
+C:\Projetos C#\ProjetoAtribuição\ProjetoAtribuição\bin\Debug\ProjetoAtribuição.exe.config
+C:\Projetos C#\ProjetoAtribuição\ProjetoAtribuição\bin\Debug\ProjetoAtribuição.exe
+C:\Projetos C#\ProjetoAtribuição\ProjetoAtribuição\bin\Debug\ProjetoAtribuição.pdb
+C:\Projetos C#\ProjetoAtribuição\ProjetoAtribuição\obj\Debug\ProjetoAtribuição.csproj.CoreCompileInputs.cache
+C:\Projetos C#\ProjetoAtribuição\ProjetoAtribuição\obj\Debug\ProjetoAtribuição.exe
+C:\Projetos C#\ProjetoAtribuição\ProjetoAtribuição\obj\Debug\ProjetoAtribuição.pdb

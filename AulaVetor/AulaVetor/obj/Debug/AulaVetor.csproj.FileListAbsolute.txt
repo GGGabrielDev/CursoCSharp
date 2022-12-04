@@ -1,0 +1,7 @@
+C:\Projetos C#\AulaVetor\AulaVetor\obj\Debug\AulaVetor.csproj.AssemblyReference.cache
+C:\Projetos C#\AulaVetor\AulaVetor\obj\Debug\AulaVetor.csproj.CoreCompileInputs.cache
+C:\Projetos C#\AulaVetor\AulaVetor\bin\Debug\AulaVetor.exe.config
+C:\Projetos C#\AulaVetor\AulaVetor\bin\Debug\AulaVetor.exe
+C:\Projetos C#\AulaVetor\AulaVetor\bin\Debug\AulaVetor.pdb
+C:\Projetos C#\AulaVetor\AulaVetor\obj\Debug\AulaVetor.exe
+C:\Projetos C#\AulaVetor\AulaVetor\obj\Debug\AulaVetor.pdb

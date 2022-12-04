@@ -1,0 +1,7 @@
+C:\Projetos C#\AtividadeExtremaBasica\AtividadeExtremaBasica\bin\Debug\AtividadeExtremaBasica.exe.config
+C:\Projetos C#\AtividadeExtremaBasica\AtividadeExtremaBasica\bin\Debug\AtividadeExtremaBasica.exe
+C:\Projetos C#\AtividadeExtremaBasica\AtividadeExtremaBasica\bin\Debug\AtividadeExtremaBasica.pdb
+C:\Projetos C#\AtividadeExtremaBasica\AtividadeExtremaBasica\obj\Debug\AtividadeExtremaBasica.csproj.AssemblyReference.cache
+C:\Projetos C#\AtividadeExtremaBasica\AtividadeExtremaBasica\obj\Debug\AtividadeExtremaBasica.csproj.CoreCompileInputs.cache
+C:\Projetos C#\AtividadeExtremaBasica\AtividadeExtremaBasica\obj\Debug\AtividadeExtremaBasica.exe
+C:\Projetos C#\AtividadeExtremaBasica\AtividadeExtremaBasica\obj\Debug\AtividadeExtremaBasica.pdb

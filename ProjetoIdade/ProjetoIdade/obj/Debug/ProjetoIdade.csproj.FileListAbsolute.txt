@@ -1,0 +1,7 @@
+C:\Projetos C#\ProjetoIdade\ProjetoIdade\bin\Debug\ProjetoIdade.exe.config
+C:\Projetos C#\ProjetoIdade\ProjetoIdade\bin\Debug\ProjetoIdade.exe
+C:\Projetos C#\ProjetoIdade\ProjetoIdade\bin\Debug\ProjetoIdade.pdb
+C:\Projetos C#\ProjetoIdade\ProjetoIdade\obj\Debug\ProjetoIdade.csproj.AssemblyReference.cache
+C:\Projetos C#\ProjetoIdade\ProjetoIdade\obj\Debug\ProjetoIdade.csproj.CoreCompileInputs.cache
+C:\Projetos C#\ProjetoIdade\ProjetoIdade\obj\Debug\ProjetoIdade.exe
+C:\Projetos C#\ProjetoIdade\ProjetoIdade\obj\Debug\ProjetoIdade.pdb

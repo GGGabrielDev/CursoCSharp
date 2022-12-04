@@ -1,0 +1,7 @@
+C:\Projetos C#\ProjetoSalarioComBonus\ProjetoSalarioComBonus\bin\Debug\ProjetoSalarioComBonus.exe.config
+C:\Projetos C#\ProjetoSalarioComBonus\ProjetoSalarioComBonus\bin\Debug\ProjetoSalarioComBonus.exe
+C:\Projetos C#\ProjetoSalarioComBonus\ProjetoSalarioComBonus\bin\Debug\ProjetoSalarioComBonus.pdb
+C:\Projetos C#\ProjetoSalarioComBonus\ProjetoSalarioComBonus\obj\Debug\ProjetoSalarioComBonus.csproj.AssemblyReference.cache
+C:\Projetos C#\ProjetoSalarioComBonus\ProjetoSalarioComBonus\obj\Debug\ProjetoSalarioComBonus.csproj.CoreCompileInputs.cache
+C:\Projetos C#\ProjetoSalarioComBonus\ProjetoSalarioComBonus\obj\Debug\ProjetoSalarioComBonus.exe
+C:\Projetos C#\ProjetoSalarioComBonus\ProjetoSalarioComBonus\obj\Debug\ProjetoSalarioComBonus.pdb

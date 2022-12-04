@@ -1,0 +1,6 @@
+C:\Projetos C#\ProdutoSimplesProd\ProdutoSimplesProd\obj\Debug\ProdutoSimplesProd.csproj.CoreCompileInputs.cache
+C:\Projetos C#\ProdutoSimplesProd\ProdutoSimplesProd\bin\Debug\ProdutoSimplesProd.exe.config
+C:\Projetos C#\ProdutoSimplesProd\ProdutoSimplesProd\bin\Debug\ProdutoSimplesProd.exe
+C:\Projetos C#\ProdutoSimplesProd\ProdutoSimplesProd\bin\Debug\ProdutoSimplesProd.pdb
+C:\Projetos C#\ProdutoSimplesProd\ProdutoSimplesProd\obj\Debug\ProdutoSimplesProd.exe
+C:\Projetos C#\ProdutoSimplesProd\ProdutoSimplesProd\obj\Debug\ProdutoSimplesProd.pdb

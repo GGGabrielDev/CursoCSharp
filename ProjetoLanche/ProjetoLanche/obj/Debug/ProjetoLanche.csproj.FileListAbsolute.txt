@@ -1,0 +1,7 @@
+C:\Projetos C#\ProjetoLanche\ProjetoLanche\bin\Debug\ProjetoLanche.exe.config
+C:\Projetos C#\ProjetoLanche\ProjetoLanche\bin\Debug\ProjetoLanche.exe
+C:\Projetos C#\ProjetoLanche\ProjetoLanche\bin\Debug\ProjetoLanche.pdb
+C:\Projetos C#\ProjetoLanche\ProjetoLanche\obj\Debug\ProjetoLanche.csproj.AssemblyReference.cache
+C:\Projetos C#\ProjetoLanche\ProjetoLanche\obj\Debug\ProjetoLanche.csproj.CoreCompileInputs.cache
+C:\Projetos C#\ProjetoLanche\ProjetoLanche\obj\Debug\ProjetoLanche.exe
+C:\Projetos C#\ProjetoLanche\ProjetoLanche\obj\Debug\ProjetoLanche.pdb

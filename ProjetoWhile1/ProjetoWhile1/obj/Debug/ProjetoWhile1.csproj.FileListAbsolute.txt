@@ -1,0 +1,6 @@
+C:\Projetos C#\ProjetoWhile1\ProjetoWhile1\bin\Debug\ProjetoWhile1.exe.config
+C:\Projetos C#\ProjetoWhile1\ProjetoWhile1\bin\Debug\ProjetoWhile1.exe
+C:\Projetos C#\ProjetoWhile1\ProjetoWhile1\bin\Debug\ProjetoWhile1.pdb
+C:\Projetos C#\ProjetoWhile1\ProjetoWhile1\obj\Debug\ProjetoWhile1.csproj.CoreCompileInputs.cache
+C:\Projetos C#\ProjetoWhile1\ProjetoWhile1\obj\Debug\ProjetoWhile1.exe
+C:\Projetos C#\ProjetoWhile1\ProjetoWhile1\obj\Debug\ProjetoWhile1.pdb
